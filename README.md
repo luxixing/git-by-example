@@ -1,2 +1,2 @@
-# git-by-example
-git 基础代码
+# golang-by-example
+golang 基础代码
